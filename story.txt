@@ -1,2 +1,3 @@
 A long time ago, in a galaxy far, far away.
-People still used command line text editors
+People still used command line text editors.
+This was collectively seen as a bad move.
